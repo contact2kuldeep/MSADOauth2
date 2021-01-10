@@ -83,3 +83,6 @@ When mapping the user groups to your application, likely the best attributes for
   $_SESSION["oauth_bearer"] = $authdata["access_token"];
   $_SESSION["groups"] = $groupdata; 
 ```
+
+#### Reference: 
+https://www.sipponen.com/archives/4149
